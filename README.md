@@ -7,7 +7,6 @@ https://www.kaggle.com/c/quora-question-pairs/data
 ##### Sample Data
 <img src="https://github.com/bharath3794/Quora-Question-Pairs/blob/main/images/dataset.png" width=40% height=40%>
 
-
 ## Models
 #### Siamese Network Architecture with Word2Vec Features
 <img src="https://github.com/bharath3794/Quora-Question-Pairs/blob/main/images/siamese.png" width=40% height=40%>
