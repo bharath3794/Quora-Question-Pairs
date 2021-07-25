@@ -15,7 +15,7 @@ https://www.kaggle.com/c/quora-question-pairs/data
 <img src="https://github.com/bharath3794/Quora-Question-Pairs/blob/main/images/modified.png" width=60% height=60%>
 
 ## Model Summary
-<img src="https://github.com/bharath3794/Quora-Question-Pairs/blob/main/images/model_summary.png" width=80% height=80%>
+<img src="https://github.com/bharath3794/Quora-Question-Pairs/blob/main/images/model_summary.png" width=90% height=90%>
 
 ## Results
 #### Classification Report of Basic Architecture
